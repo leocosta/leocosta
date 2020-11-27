@@ -1,11 +1,15 @@
-### Hi there 👋
+<p align="center">
+ <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
+ <h2 align="center">Profile</h2>
+</p>
 
-My name is Leo and I’m a software engineer and distributed systems specialist.
+### Hi there 👋 I'm [Leo](http://www.growiz.com.br)
+> Tech Lead at [@stone-payments](https://github.com/stone-payments)
 
 - 💻 I’m currently working at [@stone-payments](https://github.com/stone-payments).
-- 🌱 I’m like to study software engineering and everything related to how make better software.
+- 🌱 I’m like to study software engineering, distributed systems and everything related to how make better software.
 - 📫 Reach me on instagram: [@leoccosta](https://instagram.com/leoccosta).
-- 💻 I write [here](http://www.growiz.com.br).
+- ✍️ I write [here](http://www.growiz.com.br).
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=leocosta&count_private=true&show_icons=true)
 
