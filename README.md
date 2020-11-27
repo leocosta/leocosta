@@ -3,8 +3,8 @@
 My name is Leo and I’m a software engineer and distributed systems specialist.
 
 - 💻 I’m currently working at @stone-payments.
-- 🌱 I’m like to study quality engineer end everything related to _how make better software?_. 
-- 📫 Reach me on instagram: @leoccosta
+- 🌱 I’m like to study software engineering and everything related to how make better software.
+- 📫 Reach me on instagram: [https://instagram.com/leoccosta]@leoccosta
 - 💻 I write [here](http://www.growiz.com.br)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=leocosta&count_private=true&show_icons=true)
