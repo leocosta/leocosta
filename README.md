@@ -12,7 +12,8 @@
 - 📫 Reach me on instagram: [@leoccosta](https://instagram.com/leoccosta).
 - ✍️ I write [here](http://www.growiz.com.br).
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=leocosta&count_private=true&show_icons=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=leocosta&theme=default&count_private=true&show_icons=true&hide=contribs)
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leocosta&theme=default&layout=compact&langs_count=6)
 
 <!--
 **leocosta/leocosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
